@@ -1,3 +1,4 @@
+Bitte sende eine Mail an "Kollege@Firma.de"
 # Contributing
 
 Your contributions are always welcome!
